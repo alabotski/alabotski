@@ -2,9 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/alabotski)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alabotski)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alabotski)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alabotski&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alabotski)](https://github.com/ryo-ma/github-profile-trophy)
 
