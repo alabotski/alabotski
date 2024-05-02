@@ -21,16 +21,19 @@
 
 <p align="center">
 	<a href="https://github.com/alabotski">
-		<img align="center" style="padding-bottom:10px" src="https://github-readme-stats.vercel.app/api?username=alabotski&count_private=true&show_icons=true&theme=transparent&card_width=500" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=alabotski&count_private=true&show_icons=true&theme=transparent&card_width=500" />
 	</a> 
+	
 	<a href="https://github.com/alabotski">
-		<img align="center" style="padding-bottom:10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=transparent&card_width=500" />
-	</a>		
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=transparent&card_width=500" />
+	</a>	
+	
 	<a href="https://github.com/alabotski">
-		<img align="center" style="padding-bottom:10px" src="https://streak-stats.demolab.com?user=alabotski&theme=transparent&date_format=j%20M%5B%20Y%5D" />
+		<img align="center" src="https://streak-stats.demolab.com?user=alabotski&theme=transparent&date_format=j%20M%5B%20Y%5D" />
 	</a>
+	
 	<a href="https://github.com/alabotski">
-		<img align="center" style="padding-bottom:10px" src="https://github-profile-trophy.vercel.app/?username=alabotski&column=5" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=alabotski&column=5" />
 	</a>
 </p>
 
